@@ -12,14 +12,6 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nicolás Daniel Palumbo",
-            "email": "n@xinax.net"
-        },
-        {
-            "name": "Antoine Aflalo",
-            "email": "dev+laravel_gettext@zerospam.ca"
-        },
-        {
             "name": "Jay",
             "email": "ishimwe@gmail.com"
         }
@@ -28,8 +20,8 @@
         "issues": "https://github.com/devuniverse/laravel-gettext/issues"
     },
     "require": {
-        "php": ">=8.2",
-        "laravel/framework": "^11.0",
+        "php": ">=8.0",
+        "laravel/framework": "^9.0 || ^10.0 || ^11.0",
         "laravel/helpers": "^1.1"
     },
     "require-dev": {
